@@ -9,7 +9,7 @@
       <div class="col-12 col-md-8 h-100 py-5">
         <h1 id="cta-title" class="display-2  text-light mb-2"><strong>Fundraising Platforms That Unite Minds</strong> </h1>
         <p class="lead  text-light">Building A Future Of Promises</p>
-        <p class="cta-button"><a href="https://blueprintsapp.launchaco.com/" class="btn btn-outline-light shadow-lg btn-round text-light btn-lg btn-rised">Learn More</a></p>
+        <p class="cta-button"><a href="https://www.hopsie.com//" class="btn btn-outline-light shadow-lg btn-round text-light btn-lg btn-rised">Learn More</a></p>
       </div>
       </div>
 

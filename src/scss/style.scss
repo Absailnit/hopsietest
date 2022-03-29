@@ -25,7 +25,8 @@ ul#menu-main-menu {
 section {
   height: 100vh;
   background-size: cover;
-  background-image: linear-gradient(rgba(0,0,0,.25), rgba(0,0,0,.25)),url("http://localhost:8888/hopsietest/wp-content/uploads/2022/03/floatrock-1024x682-1.jpg");
+  background-image: linear-gradient(rgba(0,0,0,.25), rgba(0,0,0,.25)),url("http://localhost:8888/hopsietest/wp-content/uploads/2022/03/floatingrock.png");
+  background-position: top;
 }
 
 .cta-button {
