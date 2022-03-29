@@ -11,7 +11,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6 item">
-          <a class="footer-brand mr-5" href="#"><img src="http://localhost:8888/hopsiedemo/wp-content/uploads/2022/03/hopsie-logo.png" width="250" height="85" alt=""></a>
+          <a class="footer-brand" href="#"><img src="http://localhost:8888/hopsiedemo/wp-content/uploads/2022/03/hopsie-logo.png" width="250" height="85" alt=""></a>
         </div>
         <div class="col-sm-6 col-md-3 item">
           <h3>Services</h3>
