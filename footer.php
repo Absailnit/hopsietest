@@ -13,7 +13,7 @@
         <div class="col-md-6 item">
           <a class="footer-brand" href="#"><img src="http://localhost:8888/hopsiedemo/wp-content/uploads/2022/03/hopsie-logo.png" width="250" height="85" alt=""></a>
         </div>
-        <div class="col-sm-6 col-md-3 item">
+        <div class="col-sm-6 col-md-3 item foot-col">
           <h3>Services</h3>
           <ul>
             <li><a href="#">Web design</a></li>
@@ -21,7 +21,7 @@
             <li><a href="#">Hosting</a></li>
           </ul>
         </div>
-        <div class="col-sm-6 col-md-3 item">
+        <div class="col-sm-6 col-md-3 item foot-col">
           <h3>News And Events</h3>
           <ul>
             <li><a href="#">Latest Information</a></li>

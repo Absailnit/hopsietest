@@ -77,8 +77,18 @@ section {
 }
 @media(max-width:414px){
   .footer-brand{
-    margin-left:10px;git
+    margin-left:10px;
   }
+  .foot-col {
+    display:none;
+  }
+}
+@media only screen
+and (device-width: 390px)
+and (device-height: 844px)
+and (-webkit-device-pixel-ratio: 3) {
+
+
 }
 
 @media (max-width:767px) {
